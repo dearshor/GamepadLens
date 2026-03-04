@@ -2,7 +2,7 @@
 
 A macOS-native SwiftUI application for real-time visualization and debugging of game controller (gamepad) inputs.
 
-Built with Apple's `GameController` framework, GamepadLens detects connected controllers and displays:
+Built with Apple's [`GameController`](https://developer.apple.com/documentation/gamecontroller) framework, GamepadLens detects connected controllers and displays:
 
 - Button states & face buttons
 - Thumbstick positions

@@ -47,6 +47,10 @@ The UI is a single-window layout split into regions:
 - **`TechnicalDataView`** — Grid of real-time numerical readings (last pressed button, axis values, motion vectors).
 - **`EventLogView`** — Scrollable `List` of `InputEvent` records with auto-scroll-to-bottom.
 
+## Git Conventions
+
+All commit messages must be written in **English**.
+
 ### Key Patterns
 
 - **No Combine / `ObservableObject`** — The project uses the newer Observation framework exclusively (`@Observable`, `@Bindable`).
